@@ -1,42 +1,48 @@
-## 👋 Hi there
+## Atoullo (Ato) Sohibzoda
 
-I’m **Atoullo**, a cybersecurity-focused IT specialist with hands-on automation experience.
-
----
-
-### 🛡️ Core focus
-- Cybersecurity fundamentals (Linux, networking, SOC basics)
-- Security labs, practice & technical write-ups
-- Log analysis and incident-style workflows
+Python engineer · Cybersecurity practitioner · Automation builder · Warsaw, Poland
 
 ---
 
-### 🧠 Practical background
-I actively use automation as a tool to support operational and security tasks:
+### What I build
 
-- 🤖 Telegram bots for support, alerts and internal workflows  
-- 📊 Google Sheets automation for tracking & reporting  
-- 🛠 Internal admin tools and dashboards  
+Production systems, not toy projects.
 
----
-
-### 🧰 Tech stack
-- **Linux**, networking fundamentals  
-- **Python** (automation & scripting)  
-- **Node.js** (basic scripting, bots, APIs)  
-- **PHP** (backend & legacy systems exposure)  
-- SQLite, structured data workflows  
-- Telegram Bot API  
-- Google Apps Script  
+- **Fleet Core** — fleet management platform running live for 600+ drivers in Warsaw. Event-driven Telegram backend, SLA monitoring, driver CRM, AI-powered auto-replies, multi-role access control. Built solo, deployed on VPS with Docker.
+- **[claude-audit](https://github.com/atobones/claude-audit)** — open-source code audit tool. 7 parallel AI agents scan any codebase for security, bugs, dead code, architecture issues, dependencies (CVE via OSV.dev API), and git hotspots. Zero config, any language.
+- **Diabetes Risk Analysis System** — ML pipeline for diabetes prediction from clinical indicators. Classification model with feature engineering, probability scoring, and REST API layer.
+- **LinkedIn Hunter** — AI-powered job search automation. Crawls LinkedIn, scores job fit 0–100 using any AI provider (OpenAI / Gemini / Claude / Ollama), auto-fills applications via Playwright.
 
 ---
 
-### 📈 Current goals
-- Grow into a **SOC / Blue Team** role  
-- Build security-oriented automation tools  
-- Transition from operational automation into cybersecurity positions  
+### Stack
+
+```
+Languages    Python  JavaScript / Node.js  Bash  Rust (learning)  SQL
+Automation   Playwright  n8n  aiogram  asyncio
+AI / ML      LLM APIs (OpenAI, Anthropic, Gemini)  multi-agent orchestration
+Infra        Docker  Linux  VPS  Git  GitHub Actions
+Security     OWASP Top 10  CTF  penetration testing basics  secure design
+DB           SQLite  relational data modeling
+```
 
 ---
 
-📫 **Open to** junior cybersecurity roles and freelance automation projects.
+### Cybersecurity practice
 
+| Platform | Status |
+|---|---|
+| OverTheWire — Bandit | Completed |
+| OverTheWire — Leviathan | Completed |
+| OverTheWire — Natas | Completed |
+| OverTheWire — Narnia | Completed |
+| TryHackMe | Active |
+
+---
+
+### Looking for
+
+Remote roles globally · Hybrid / on-site in Europe
+Cybersecurity · Python backend · AI integration · Business automation
+
+sohibzodaato@gmail.com

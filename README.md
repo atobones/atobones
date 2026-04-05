@@ -9,7 +9,6 @@ Python engineer · Cybersecurity practitioner · Automation builder · Warsaw, P
 Production systems, not toy projects.
 
 - **Fleet Core** — fleet management platform running live for 600+ drivers in Warsaw. Event-driven Telegram backend, SLA monitoring, driver CRM, AI-powered auto-replies, multi-role access control. Built solo, deployed on VPS with Docker.
-- **[claude-audit](https://github.com/atobones/claude-audit)** — open-source code audit tool. 7 parallel AI agents scan any codebase for security, bugs, dead code, architecture issues, dependencies (CVE via OSV.dev API), and git hotspots. Zero config, any language.
 - **Diabetes Risk Analysis System** — ML pipeline for diabetes prediction from clinical indicators. Classification model with feature engineering, probability scoring, and REST API layer.
 - **LinkedIn Hunter** — AI-powered job search automation. Crawls LinkedIn, scores job fit 0–100 using any AI provider (OpenAI / Gemini / Claude / Ollama), auto-fills applications via Playwright.
 

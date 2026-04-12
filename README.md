@@ -39,16 +39,6 @@ Security     OWASP Top 10  CTF  penetration testing basics  secure design
 DB           SQLite  relational data modeling
 ```
 
-### Cybersecurity practice
-
-| Platform | Status |
-|---|---|
-| OverTheWire — Bandit | Completed |
-| OverTheWire — Leviathan | Completed |
-| OverTheWire — Natas | Completed |
-| OverTheWire — Narnia | Completed |
-| TryHackMe | Active |
-
 ### Looking for
 
 Remote roles globally · Hybrid / on-site in Europe

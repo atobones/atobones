@@ -1,6 +1,6 @@
 <div align="center">
 
-### Atoullo (Ato) Sohibzoda
+### Ato
 
 Python engineer · Cybersecurity practitioner · Automation builder · Warsaw, Poland
 

@@ -2,7 +2,7 @@
 
 ### Ato
 
-Python engineer · Cybersecurity practitioner · Automation builder · Warsaw, Poland
+Python engineer · Cybersecurity practitioner · Automation builder 
 
 ---
 

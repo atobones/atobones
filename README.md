@@ -2,7 +2,7 @@
 
 ### Ato
 
-Python engineer · Cybersecurity practitioner · Automation builder 
+Python engineer · Cybersecurity specialist· Automation builder 
 
 ---
 

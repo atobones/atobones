@@ -26,6 +26,4 @@ Python engineer · Cybersecurity specialist · Automation builder
   <img src="https://streak-stats.demolab.com?user=atobones&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </a>
 
-📫 sohibzodaato@gmail.com
-
 </div>

@@ -6,7 +6,7 @@ Python engineer · Cybersecurity specialist · Automation builder
 
 ---
 
-🔒 **Creator of [BreachLab](https://breachlab.org)** — self-hosted wargame platform training elite security operatives
+🔒 **Creator of [BreachLab](https://breachlab.org)** self-hosted wargame platform training elite security operatives
 
 [![Sponsor](https://img.shields.io/badge/💖_Sponsor-BreachLab-FFB000?style=for-the-badge&labelColor=1a1a2e)](https://github.com/sponsors/atobones)
 [![Donate Crypto](https://img.shields.io/badge/⚡_Donate_Crypto-BTC%2FLightning%2FXMR-FFB000?style=for-the-badge&labelColor=1a1a2e)](https://breachlab.org/donate)
